@@ -37,7 +37,6 @@ namespace DXAhri
             {"Object", null},
             {"LastObjectVector", null},
             {"LastObjectVectorTime", null},
-            {"CatchPosition", null}
         };
         
           private static readonly Dictionary<string, object> _E = new Dictionary<string, object>
